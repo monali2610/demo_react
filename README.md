@@ -1,5 +1,5 @@
 
-# eQuest Solutions | React Practical - 01
+React Practical - 01
 
 Develop a basic React application that renders a list of films fetched over GQL and supports cursor pagination.
 
